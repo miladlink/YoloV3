@@ -2,7 +2,12 @@
 
 ## Demo images
 
+**veiw image**
+
 ![view](https://user-images.githubusercontent.com/81680367/146061204-1e7057a6-6482-40b4-acb8-881708ec2473.jpg)
+
+**home image**
+
 ![home](https://user-images.githubusercontent.com/81680367/146061258-0c1fd0a4-30c9-4b12-8d2a-6fb29264552d.jpg)
 
 ## Description
